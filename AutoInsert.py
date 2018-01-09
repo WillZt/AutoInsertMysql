@@ -16,7 +16,7 @@ def random_float_generator(below,upper):
 print(random_int_generator(1, 4))
 print(random_float_generator(50, 100))
 '''''''''
-count = 1
+count = 10
 def loopfunc(msg):
     global count
     count += 1
